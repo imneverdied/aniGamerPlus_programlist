@@ -1,0 +1,2 @@
+# aniGamerPlus_programlist
+自動查詢巴哈姆特動畫瘋的週期表sn_list
