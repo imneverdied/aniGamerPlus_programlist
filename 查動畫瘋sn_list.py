@@ -6,8 +6,8 @@ headers = {'user-agent': 'Mozilla/5.0'}
 
 r = requests.get(url, headers=headers)  # 將此頁面的HTML GET下來
 soup = BeautifulSoup(r.text, "html.parser")  # 將網頁資料以html.parser
-# 取HTML標中的 <div class="title"></div> 中的<a>標籤存入sel
-sel = soup.select("div.programlist-block a")
+
+sel = soup.select("div.programlist-block a")  # 取HTML標中的 <div class="programlist-block"></div> 中的<a>標籤存入sel
 
 f = open('sn_list.txt', 'w+', encoding='utf-8')
 for s in sel:
