@@ -1,6 +1,10 @@
-31337 all #風都偵探
-31346 all #Love Live! SuperStar!! 第二季
-31584 all #菜鳥鍊金術師開店營業中
+31608 all #風都偵探
+31640 all #彼得・格里爾的賢者時間 Super Extra
+31643 all #彼得・格里爾的賢者時間 Super Extra
+31347 all #Love Live! SuperStar!! 第二季
+31585 all #菜鳥鍊金術師開店營業中
+31634 all #BLEACH 死神 千年血戰篇
+31637 all #呆萌酷男孩
 31490 all #轉生就是劍
 31587 all #路人超能 100 第三季
 31590 all #MUV-LUV ALTERNATIVE 第二季
