@@ -10,7 +10,8 @@
 31589 all #路人超能 100 第三季
 31627 all #不道德公會
 31592 all #MUV-LUV ALTERNATIVE 第二季
-31629 all #書蟲公主
+31630 all #書蟲公主
+31752 all #她來自煩星
 31494 all #我家師傅沒有尾巴
 31594 all #聖劍傳說 Legend of Mana - The Teardrop Crystal -
 31533 all #惑星公主蜥蜴騎士
