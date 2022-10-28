@@ -3,16 +3,16 @@
 31645 all #彼得・格里爾的賢者時間 Super Extra
 31754 all #給不滅的你 第二季
 31667 all #菜鳥鍊金術師開店營業中
-31635 all #BLEACH 死神 千年血戰篇
-31638 all #呆萌酷男孩
-31670 all #鏈鋸人
-31624 all #我想成為影之強者！
-31661 all #轉生就是劍
-31589 all #路人超能 100 第三季
-31627 all #不道德公會
-31592 all #MUV-LUV ALTERNATIVE 第二季
-31630 all #書蟲公主
-31752 all #她來自煩星
+31636 all #BLEACH 死神 千年血戰篇
+31639 all #呆萌酷男孩
+31671 all #鏈鋸人
+31673 all #我想成為影之強者！
+31662 all #轉生就是劍
+31676 all #路人超能 100 第三季
+31679 all #不道德公會
+31682 all #MUV-LUV ALTERNATIVE 第二季
+31703 all #書蟲公主
+31753 all #她來自煩星
 31664 all #我家師傅沒有尾巴
 31595 all #聖劍傳說 Legend of Mana - The Teardrop Crystal -
 31610 all #惑星公主蜥蜴騎士
